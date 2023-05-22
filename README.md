@@ -9,3 +9,7 @@ In terms of improvement, the "Methods" button suggests two ways to enhance the p
 
 Even though there is no database capability:
 The provided code serves as an example of how user data, specifically credit card information, can be captured and stored without appropriate security measures. This raises awareness about the risks associated with mishandling sensitive data and highlights the importance of implementing robust security practices. It serves as a cautionary reminder of the ethical responsibilities involved in working with personal information and the need for secure coding practices to protect user privacy and prevent potential misuse of data.
+
+Even though I waited till last minute (as I do with EVERYTHING) I really did enjoy your class and the excellent coding techniques I learned throughout your helpful lessons. I'll be taking this knoweledge with me in the real world, and actively applying it. Thank you for a great semester!
+
+PS. all professors should make due dates at the end of the term (especially for async) keep it up :)
